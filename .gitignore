@@ -1,0 +1,5 @@
+src/test/java/ShipmentsTest.java
+src/test/java/pojo/Shipments.java
+.idea/*
+*.iml
+target/*
